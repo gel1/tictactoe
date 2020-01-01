@@ -1,1 +1,3 @@
+public class TictactoeGUI extends Application implements Observer<TictactoeGUI>{
 
+}
